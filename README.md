@@ -55,3 +55,7 @@ Make sure you have the following software installed on your machine:
 8. Start 'http://localhost:8000' on browser
 
 ### Snipets
+
+![Login-Register](./img/your-image.jpg)
+![Dashboard](./img/your-image.jpg)
+![Edit Post](./img/your-image.jpg)
