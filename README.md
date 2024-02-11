@@ -56,6 +56,6 @@ Make sure you have the following software installed on your machine:
 
 ### Snipets
 
-![Login-Register](./img/your-image.jpg)
-![Dashboard](./img/your-image.jpg)
-![Edit Post](./img/your-image.jpg)
+![Login-Register](https://github.com/dhriti24/Laravel-Practice/blob/main/Screenshot/Register-login.png)
+![Dashboard](https://github.com/dhriti24/Laravel-Practice/blob/main/Screenshot/Dashboard.png)
+![Edit Post](https://github.com/dhriti24/Laravel-Practice/blob/main/Screenshot/Edit%20Post.png)
